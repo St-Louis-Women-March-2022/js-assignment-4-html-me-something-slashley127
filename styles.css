@@ -1,1 +1,39 @@
-/* Write your CSS here! */
+body {
+    width: 100%;
+    max-width: 1000px;
+    margin: 8px;
+    display: block;
+    color: darkgoldenrod;
+    background-color: black;
+    
+
+}
+#mainHeading {
+    font-family: "Lucida Handwriting";
+    text-align: center;
+    padding-bottom: 15px;
+    color: red;
+}
+
+.funParagraph{
+    color:green;
+}
+
+img {
+    max-width: 750px;
+    max-height: 750px;
+    object-fit: contain;
+    padding: 1.00em 0
+}
+
+figcaption {
+    font-style: italic;
+    font-size: medium;
+    text-align: center;
+}
+
+
+p {
+    font-size:larger;
+    text-align:left;
+}
