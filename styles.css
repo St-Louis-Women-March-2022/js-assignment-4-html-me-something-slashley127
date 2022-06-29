@@ -8,14 +8,15 @@ body {
     
 
 }
-header {
+#mainHeading {
     font-family: "Lucida Handwriting";
     text-align: center;
     padding-bottom: 15px;
+    color: red;
 }
 
-#mainHeading{
-    color: red
+.funParagraph{
+    color: green;
 }
 
 img {
@@ -31,9 +32,6 @@ figcaption {
     text-align: center;
 }
 
-.funParagraph{
-    color: green
-}
 
 p {
     font-size:larger;
