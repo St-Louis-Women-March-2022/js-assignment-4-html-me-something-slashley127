@@ -24,6 +24,15 @@ img {
     padding: 1.00em 0
 }
 
+figcaption {
+    font-style: italic;
+    font-size: medium;
+}
+
 .funParagraph{
     color: green
+}
+
+p {
+    font-size:larger
 }
