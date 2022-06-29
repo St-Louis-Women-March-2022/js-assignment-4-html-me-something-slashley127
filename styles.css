@@ -1,7 +1,8 @@
 body {
     width: 100%;
     max-width: 1000px;
-    margin: auto;
+    margin: 8px;
+    display: block;
     color: darkgoldenrod;
     background-color: black;
     
@@ -12,9 +13,17 @@ header {
     text-align: center;
 }
 
+#mainHeading{
+    color: red
+}
+
 img {
     max-width: 750px;
     max-height: 750px;
     object-fit: contain;
     padding: 1.00em 0
+}
+
+.funParagraph{
+    color: green
 }
