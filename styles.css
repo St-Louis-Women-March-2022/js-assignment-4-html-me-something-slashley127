@@ -11,6 +11,7 @@ body {
 header {
     font-family: "Lucida Handwriting";
     text-align: center;
+    padding-bottom: 15px;
 }
 
 #mainHeading{
@@ -27,6 +28,8 @@ img {
 figcaption {
     font-style: italic;
     font-size: medium;
+    text-align: center;
+    color:darkorange
 }
 
 .funParagraph{
@@ -34,5 +37,6 @@ figcaption {
 }
 
 p {
-    font-size:larger
+    font-size:larger;
+    text-align:left;
 }
