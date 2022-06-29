@@ -8,11 +8,13 @@ body {
 
 }
 header {
-    font-family: "Lucida Handwriting"
+    font-family: "Lucida Handwriting";
+    text-align: center;
 }
 
 img {
-    max-width: 1000px;
-    max-height: 1000px;
+    max-width: 750px;
+    max-height: 750px;
     object-fit: contain;
+    padding: 1.875em 0
 }
